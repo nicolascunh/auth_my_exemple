@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "978964631771",
+    "project_id": "authtest-f3459",
+    "storage_bucket": "authtest-f3459.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:978964631771:android:ba7fda71bb2b55c1be3cfe",
+        "android_client_info": {
+          "package_name": "com.example.auth_my_exemple"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "978964631771-jdag9q130t3982js300oeh3cutbvf7ji.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCx8coLOa27BrfoHP64_MYBej5ePuUNqnc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "978964631771-jdag9q130t3982js300oeh3cutbvf7ji.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "978964631771-g1llnuvaf2vpi637so81tg0jm3d6oocr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.authMyExemple"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
